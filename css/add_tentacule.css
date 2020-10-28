@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: 'BPdotsBold';
+    src: url("../fonts/BPdotsUnicaseBold.otf");
+  }
+  
+  
+  
+    h1{
+     
+      font-family: 'BPdotsBold';
+    }
+  
+  @media screen and (max-width:1200px){
+    
+       .btn-primary{
+          display: block;
+          margin: auto;
+          width: 80%;
+          margin-top: 3vh;
+      }
+      form{
+        font-size: 25px;
+      }
+    }

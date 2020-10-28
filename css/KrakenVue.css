@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'BPdotsBold';
+  src: url("../fonts/BPdotsUnicaseBold.otf");
+}
+
+
+
+  h1{
+    font-size: 1.7rem;
+    font-family: 'BPdotsBold';
+    text-align:center;
+    
+  }
+
+#gestion{
+  margin-top:4vh;
+}
+
+
+h2{
+  font-family: 'BPdotsBold';
+ margin-top:3vh;
+ 
+}
+
+#resume{
+  margin-bottom: 5vh;
+    margin-top: 3vh;
+}
+
+  
+
+
+
+ @media only screen and (min-width : 768px)
+and (max-width : 1024px){
+  h1{
+    font-size:2.4rem;
+    text-align:center;
+  }
+  #gestion{
+    font-size: 23px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+  }
+ h2{
+   font-size: 2.2rem;
+ }
+#resume{
+  font-size: 18px;
+  margin-bottom: 5%;
+}
+#caracteristique{
+  font-size:23px;
+}
+}
+ @media only screen and (min-width : 1024px)
+  and (max-width : 1366px)  
+  { 
+  h1{
+    font-size:2.4rem;
+    text-align:center;
+  }
+  #gestion{
+    font-size:27px;
+    margin-bottom :79px;
+    margin-top:50px;
+  }
+ h2{
+   font-size: 2.2rem;
+ }
+#resume{
+  font-size:24px;
+  margin-bottom:41px;
+}
+#caracteristique{
+  font-size:26px;
+}
+}
+ 

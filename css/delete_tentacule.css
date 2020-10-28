@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'BPdotsBold';
+    src: url("../fonts/BPdotsUnicaseBold.otf");
+  }
+  
+  
+  
+    h2{
+     
+      font-family: 'BPdotsBold';
+    }
+    @media only screen and (min-width : 768px)
+and (max-width : 1024px){
+
+    h2{
+    margin-bottom: 10%;
+    text-align: center;
+    margin-top: 6%;
+}
+table{
+    font-size: 23px;
+}
+tr{
+    text-align: center;
+}
+tbody{
+    text-align: center;
+}
+#retour{
+    font-size: 25px;
+}
+}

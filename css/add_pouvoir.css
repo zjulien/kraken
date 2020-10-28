@@ -1,0 +1,35 @@
+
+
+@font-face {
+    font-family: 'BPdotsBold';
+    src: url("../fonts/BPdotsUnicaseBold.otf");
+  }
+  
+  
+  
+    h2{
+     
+      font-family: 'BPdotsBold';
+    }
+
+
+
+
+@media only screen and (min-width : 768px)
+and (max-width : 1024px){
+    h2{
+        text-align:center;
+    }
+    form{
+        text-align: center;
+    font-size: 25px;
+    margin-top: 28px;
+    }
+    select option {
+        margin: 40px;
+        background: rgba(0, 0, 0, 0.3);
+        color: #fff;
+        text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+    }
+
+}

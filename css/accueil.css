@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'BPdotsBold';
+    src: url("../fonts/BPdotsUnicaseBold.otf");
+  }
+
+
+
+body #tableau_accueil{
+        position: relative;
+        margin-top: 5vh;
+    margin-left: 1vh;
+}
+body #tableau_accueil h1{
+    font-family: 'BPdotsBold';
+    
+    margin-top: auto;
+    margin-bottom: auto;
+}

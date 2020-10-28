@@ -1,0 +1,12 @@
+
+
+Pour ce projet, j'ai choisi de le faire en php seul.
+
+ Parce qu'à première vue, je pensais ne pas avoir besoin de MVC, n'y d'utiliser twig côté vue (ce que je préfère en utilisant php),
+ ce que j'ai regretté par la suite, le code est du coup assez brouillon.
+
+Pour la base de donnée, j'ai utilisé phpMyAdmin, car c'est un outil plutôt rapide et facile d'utilisation. 
+
+
+
+pour le front : rendu en php et html, intégration de bootstrap , utilisation de css et responsiv comme demandé oralement.
